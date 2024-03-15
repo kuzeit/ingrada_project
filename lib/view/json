@@ -1,0 +1,42 @@
+{
+    "success": true,
+    "message": "Resource fetched successfully.",
+    "data": [
+        {
+            "id": 12,
+            "customer_id": 1,
+            "item_id": null,
+            "description": null,
+            "is_idea": 1,
+            "is_accept": 0,
+            "is_enternal": 0,
+            "is_visual_identity": 0,
+            "primary_price": 444,
+            "final_price": 444,
+            "type": "social",
+            "title": null,
+            "scope": null,
+            "colors": "[\"2131100326\"]",
+            "number_pages": null,
+            "fonts": "[\"poppins_black1.ttf\",\"poppins_black.ttf\"]",
+            "pereferce": null,
+            "value": "null",
+            "file": null,
+            "image": null,
+            "is_order_designer": 0,
+            "designer_id": null,
+            "size_id": null,
+            "limit_date": "2023-06-22",
+            "expected_limit_date": null,
+            "status": "Pendning",
+            "notes": null,
+            "points": null,
+            "created_at": "2023-08-21T06:49:30.000000Z",
+            "updated_at": "2023-08-21T06:49:30.000000Z",
+            "file_designer": null,
+            "is_publish_designer_file": 0,
+            "similler_item_id": null
+        }
+    ],
+    "status_code": 200
+}
